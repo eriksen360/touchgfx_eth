@@ -1,0 +1,4 @@
+C:/TouchGFXProjects/Sundhedsraceren/CM7/Core/Src/freertos.c:165:6:StartDefaultTask	8	static
+C:/TouchGFXProjects/Sundhedsraceren/CM7/Core/Src/freertos.c:89:6:vApplicationIdleHook	0	static
+C:/TouchGFXProjects/Sundhedsraceren/CM7/Core/Src/freertos.c:104:6:vApplicationStackOverflowHook	0	static
+C:/TouchGFXProjects/Sundhedsraceren/CM7/Core/Src/freertos.c:117:6:MX_FREERTOS_Init	8	static
