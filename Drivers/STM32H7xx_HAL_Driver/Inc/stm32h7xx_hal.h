@@ -28,6 +28,7 @@
 /* Includes ------------------------------------------------------------------*/
 #include "stm32h7xx_hal_conf.h"
 
+
 /** @addtogroup STM32H7xx_HAL_Driver
   * @{
   */

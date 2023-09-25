@@ -167,6 +167,7 @@ HAL_HSEM_Release(HSEM_ID_0,0);
   MX_ADC1_Init();
   MX_ADC3_Init();
   MX_TouchGFX_Init();
+  HAL_ETH_Init(); /* Initialize Ethernet Driver */
   /* Call PreOsInit function */
   MX_TouchGFX_PreOSInit();
   /* USER CODE BEGIN 2 */
