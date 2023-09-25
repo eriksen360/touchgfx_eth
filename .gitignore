@@ -1,0 +1,6 @@
+
+# Avoid binary files
+**/bin/**
+**/obj/**
+**/*.elf
+**/*.hex
